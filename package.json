@@ -20,7 +20,7 @@
     "cordova-plugin-filechooser": "^1.0.1",
     "cordova-plugin-filepicker": "^1.1.5",
     "cordova-plugin-globalization": "^1.11.0",
-    "cordova-plugin-inappbrowser": "~1.6.1",
+    "cordova-plugin-inappbrowser": "~4.0.0",
     "cordova-plugin-iroot": "~0.8.0",
     "cordova-plugin-mfp": "~8.0.2017072706",
     "cordova-plugin-mfp-push": "~8.0.2017062111",
